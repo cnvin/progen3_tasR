@@ -1,10 +1,10 @@
 # ProGen3
 
-This repository contains code to access the ProGen3 suite of models as well as cli interface to run these models for scoring and generation.
+This repository contains code to access the ProGen3 family of models as well as cli interface to run these models for scoring and generation.
 
 ## Models Available
 
-More info on Progen3 Models can be found [here](https://profluent.bio/showcase/progen3). In the subsequent sections, you can provide a model name from following table where needed.
+More info on ProGen3 Models can be found [here](https://profluent.bio/showcase/progen3). In the subsequent sections, you can provide a model name from following table where needed.
 
 | Model Name                 | Model Parameters | HuggingFace Link                                                                |
 | -------------------------- | ---------------- | ------------------------------------------------------------------------------- |
@@ -19,7 +19,7 @@ More info on Progen3 Models can be found [here](https://profluent.bio/showcase/p
 
 ### Local Usage
 
-ProGen3 suite of models require atleast one GPU device (ideally a A100/H100 with atleast 40GB of VRAM) be available.
+ProGen3 family of models require atleast one GPU device (ideally a A100/H100 with atleast 40GB of VRAM) be available.
 
 1. Clone this repo and run `bash setup.sh`
 
