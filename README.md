@@ -19,7 +19,7 @@ More info on ProGen3 Models can be found [here](https://profluent.bio/showcase/p
 
 ### Local Usage
 
-ProGen3 family of models require atleast one GPU device (ideally a A100/H100 with atleast 40GB of VRAM) be available.
+ProGen3 family of models require atleast one GPU device (we have tested it only on a A100/H100 with atleast 40GB of VRAM) be available.
 
 1. Clone this repo and run `bash setup.sh`
 
