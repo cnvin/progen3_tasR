@@ -1,6 +1,6 @@
 # ProGen3
 
-This repository contains code to access the ProGen3 family of models as well as cli interface to run these models for scoring and generation. The model weights are released under a **non-commerical** usage license. Please see the [LICENSE](#license) section below.
+This repository contains code to access the ProGen3 family of models as well as cli interface to run these models for scoring and generation. The model weights are released under a **non-commercial** usage license. Please see the [LICENSE](#license) section below.
 
 ## Models Available
 
