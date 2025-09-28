@@ -13,7 +13,8 @@ dependencies = [
     "tqdm",
     "pandas",
     "scipy",
-    "biopython"
+    "biopython",
+    "peft>=0.11.0"
 ]
 
 [pypi-options]
